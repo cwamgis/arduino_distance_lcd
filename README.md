@@ -14,3 +14,5 @@ https://itechnofrance.wordpress.com/2013/03/12/utilisation-du-module-ultrason-hc
 
 
 exemple hello world de lyquid cristal
+
+documentation utilisateur du HC SR04 : https://docs.google.com/document/d/1Y-yZnNhMYy7rwhAgyL_pfa39RsB-x2qR4vP8saG73rE/edit
