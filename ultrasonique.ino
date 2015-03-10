@@ -55,7 +55,7 @@ void loop()
   lecture_echo = pulseIn(ULTRA_SON_ECHO, HIGH);
   cm = lecture_echo / 58;
   // Affichage moniteur
-  Serial.print("pouet : ");
+  Serial.print("distance : ");
   Serial.println(cm);
   // Affichage LCD
    lcd.setCursor(0,1);   //Ligne du bas
